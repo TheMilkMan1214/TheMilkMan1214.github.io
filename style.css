@@ -3,20 +3,6 @@
   background-color: white;    
   text-align: center;
 }
-      .pageBody {
-  background-color: #77C96F;    
-  text-align: left;
-}
-      .pageHeading {
-  border: 3px outset #C16FC9;
-  background-color: white;    
-  text-align: left;
-}
-      .interpageLink {
-  border: 1px outset #C16FC9;
-  background-color: white;    
-  text-align: center;
-}
       .button {
             text-align: center;
             background-color: #C16FC9;
