@@ -1,6 +1,6 @@
       .pageTitle {
   border: 5px outset #C16FC9;
-  background-color: #77C96F;    
+  background-color: white;    
   text-align: center;
 }
       .pageBody {
@@ -9,14 +9,15 @@
 }
       .pageHeading {
   border: 3px outset #C16FC9;
-  background-color: #77C96F;    
+  background-color: white;    
   text-align: left;
 }
       .interpageLink {
   border: 1px outset #C16FC9;
-  background-color: #77C96F;    
+  background-color: white;    
   text-align: center;
 }
       .navBar {
-  margin: 0px 30px 0px 30px; 
+            text-align: center;
+            background-color: #C16FC9;  
 }
