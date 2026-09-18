@@ -21,3 +21,7 @@
             text-align: center;
             background-color: #C16FC9;  
 }
+ .button:hover {
+ background-color: tomato;
+       color: white;
+ }
