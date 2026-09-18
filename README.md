@@ -1,2 +1,1 @@
-
-I'm gonna make a wish list of things I want that I can share with people so they have a list of gifts I actually want. Sorta like thr Amazon wishlist but I don't just want things of Amazon and I feel like it would be fun to make this.
+I'm making a website because I want to relearn html, css, and javascript and because it would be funny to have one.
