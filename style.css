@@ -1,14 +1,14 @@
-      .pageTitle {
-  border: 5px outset #C16FC9;
-  background-color: white;    
-  text-align: center;
+.pageTitle {
+	border: 5px outset #C16FC9;
+	background-color: white;    
+	text-align: center;
 	}
-      .button {
-            text-align: center;
-            background-color: #C16FC9;
-            color: white;
-            transition-duration: 0.8s;
+.button {
+	text-align: center;
+	background-color: #C16FC9;
+	color: white;
+	transition-duration: 0.8s;
 	}
-	.button:hover {
-		background-color: tomato;
+.button:hover {
+	background-color: tomato;
 	}
