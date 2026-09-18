@@ -6,6 +6,7 @@
 .btn-group {
   display: flex;
   flex-wrap: wrap;
+	justify-content: center;
 }
 .button {
 	background-color: #C16FC9;
