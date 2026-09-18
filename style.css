@@ -19,7 +19,8 @@
 }
       .button {
             text-align: center;
-            background-color: #C16FC9;  
+            background-color: #C16FC9;
+            transition-duration: 0.8s;
 }
  .button:hover {
  background-color: tomato;
