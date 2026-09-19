@@ -25,3 +25,6 @@
 body {
 	background-color: whitesmoke;
 }
+table, th, td {
+  border:1px solid black;
+}
