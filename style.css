@@ -1,14 +1,9 @@
-.pageTitlehold {
-	border: 5px solid #C16FC9;
-	background-color: white;    
-	text-align: center;
-	}
 .pageTitle {
-  background-color: lightgrey;
-  width: 500px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: auto;
+  	width: 500px;
+  	border: 15px solid #C16FC9;
+  	padding: 50px;
+  	margin: auto;
+	text-align: center;
 	}
 .btn-group {
 	display: flex;
