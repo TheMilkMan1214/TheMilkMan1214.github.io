@@ -12,7 +12,9 @@
 }
 .button {
 	background-color: #2146C7;
-	border: none;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
 	color: white;
 	padding: 15px 32px;
 	text-align: center;
