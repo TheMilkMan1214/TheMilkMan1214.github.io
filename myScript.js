@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
  		primary = "#FFFFFF";
 	} else {
   		primary = color;
-		const buttons = document.getElementByClassName("button");
+		const buttons = document.getElementsByClassName("button");
 		for (let i = 0; i < buttons.length; i++) {
 			 buttons[i].style.color = primary;
 		}
